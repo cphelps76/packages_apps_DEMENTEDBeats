@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources  xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">DEMENTED Beats</string>
+    <string name="app_name">DEMENTED Beats™</string>
     <string name="select_configuration_title">Select Configuration To Edit</string>
     <string name="headset_title">Headset</string>
     <string name="speaker_title">Speaker</string>
@@ -18,15 +18,15 @@
     <string name="pref_dsp_enable">Enable</string>
     <string name="pref_effect_title">Select Effect Strength</string>
     <string name="dialog_effect">Effect Strength</string>
-    <string name="pref_equalizer_title">BEATS EQ</string>
+    <string name="pref_equalizer_title">BEATS™ Equalizer</string>
     <string name="pref_equalizer_summary_on">Equalizer is enabled</string>
     <string name="pref_equalizer_summary_off">Equalizer is disabled</string>
     <string name="pref_equalizer_enable">Enable</string>
-    <string name="pref_equalizer_preset_title">DEMENTED Beats Preset</string>
+    <string name="pref_equalizer_preset_title">Select BEATS™ Preset</string>
     <string name="pref_equalizer_loudness_title">Loudness compensation</string>
-    <string name="pref_bassboost_title">Bass Boost</string>
-    <string name="pref_bassboost_summary_on">Bass Boost is enabled</string>
-    <string name="pref_bassboost_summary_off">Bass Boost is disabled</string>
+    <string name="pref_bassboost_title">BEATS™ Boost</string>
+    <string name="pref_bassboost_summary_on">BEATS™ Boost is enabled</string>
+    <string name="pref_bassboost_summary_off">BEATS™ Boost is disabled</string>
     <string name="pref_bassboost_enable">Enable</string>
     <string name="pref_headset_virtual_title">Headset Virtual Room Effect</string>
     <string name="pref_headset_virtual_summary_on">Headset Virtual Room is enabled</string>
